@@ -1,0 +1,8 @@
+
+000webhost.com
+
+@botfather
+
+@userinfobot
+
+https://api.telegram.org/bot****/setwebhook?url=****/CreateBotAll.php
